@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# 🌊 Uhlanoong — Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my personal portfolio repository!  
+This is where I showcase my skills, projects, and professional journey in **software development**, **graphic design**, and beyond.  
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📌 About Me
 
-### `npm start`
+Hi, I’m **Uhlanoong** — a **software developer** with a background in **pharmacy** and over **4 years of experience** in the JavaScript/tech industry.  
+I specialize in **front-end**, **back-end**, and **cloud hosting (AWS)**, with a passion for creating clean, functional, and user-friendly applications.  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+💡 In addition to software, I also work in **graphic design**, blending creativity and technology.  
+🌏 Currently based in Dhaka, Bangladesh — preparing to move to Overseas.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🚀 Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Languages**: JavaScript (ES6+), TypeScript, SQL
+- **Frameworks & Libraries**: React, NestJS, Node.js, Express.js
+- **Database**: PostgreSQL, MySQL
+- **Cloud & Tools**: AWS, Git, Docker
+- **Design Tools**: Adobe Illustrator, Photoshop
+- **Other Skills**: API Development, CRM Systems, Data Visualization
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📂 Featured Projects
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Fish CRM** | Fisheries department CRM for managing species data, feeding schedules, and environmental parameters. | React, NestJS, PostgreSQL, AWS |
+| **Disease Diagnosis API** | Intelligent API for fish disease diagnosis using symptom-disease mapping. | NestJS, SQL Optimization |
+| **Oxygen Production API** | Calculates daily pond oxygen production from PAR values. | NestJS, Dynamic Calculations |
+| **Feeding Advisory System** | Suggests feeding schedules based on weather & environmental conditions. | React, Node.js, Data Processing |
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 📄 Installation & Usage
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/uhlanoong/portfolio.git
