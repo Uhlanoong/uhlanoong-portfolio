@@ -178,6 +178,19 @@ function Contact() {
             github.com/uhlanoong
           </motion.a>
         </p>
+        <p>
+        Twitter:{' '}
+        <motion.a
+          href="https://x.com/uhlanoongrk"
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{ color: '#007acc', textDecoration: 'underline' }}
+          whileHover={{ scale: 1.1, color: '#005f99' }}
+          transition={{ type: 'spring', stiffness: 300 }}
+        >
+          x.com/uhlanoongrk
+        </motion.a>
+      </p>
       </address>
     </motion.section>
   );
@@ -194,7 +207,7 @@ export default Contact;
 
 
 
-
+// https://x.com/uhlanoongrk
 
 // import React from 'react';
 // import { motion } from 'framer-motion';
